@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My math quiz gaming app</string>
+    <string name="app_title">Mini-Quiz</string>
+    <string name="add">Addition</string>
+    <string name="sub">Subtract</string>
+    <string name="multi">Multiply</string>
+    <string name="divi">Division</string>
+    <string name="random">Random</string>
+    <string name="exit">Exit</string>
+    <string name="level1">Level 1</string>
+    <string name="score">Score: 0</string>
+    <string name="ten">10</string>
+    <string name="question">Question- 1/100</string>
+    <string name="gameover">Game Over</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#8BC34A</color>
+    <color name="correctColor">#4CAF50</color>
+    <color name="incorrectColor">#F44336</color>
+    <color name="defaultButtonColor">#50FFFFFF</color>
+    <color name="purple">#FF3700B3</color>
+    <color name="R2Background">#ACE5F6</color>
+    <color name="R1Background">#446592</color>
+    <color name="gameTitle">#2C4059</color>
+    <color name="rectangle">#E3FCF9</color>
+    <color name="otherTopic">#0E117A</color>
+    <color name="gameOver">#86A6DE</color>
+
+
+</resources>
